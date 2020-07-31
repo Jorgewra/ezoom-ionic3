@@ -1,4 +1,4 @@
-# BACKEND EZOOM
+# FONTEND EZOOM
 
     1. npm i 
     2. ionic serve
@@ -10,7 +10,7 @@
 
 * **Jorge Almeida** - *Initial work* - [jorgewra](https://github.com/Jorgewra)
 
-See also the list of [contributors](https://github.com/Jorgewra/fullstack/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Jorgewra/ezoom-ionic3/contributors) who participated in this project.
 
 ## License
 
