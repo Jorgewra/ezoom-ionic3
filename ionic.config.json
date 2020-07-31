@@ -1,5 +1,9 @@
 {
-  "name": "ezoom-front",
-  "integrations": {},
-  "type": "angular"
+  "name": "ionic2-app-base",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "app.com.br.ipetfood",
+  "id": "app.com.br.ipetfood"
 }

@@ -1,0 +1,18 @@
+<ion-content class="content-home">
+ <div class="top-header">
+   <div text-center class="text-title">CURSOS E TREINAMENTOS</div>
+   <div text-center class="text-sub-text"> Selecione o curso ou treinamento que deseja realizar</div>
+ </div>
+ <div class="content-list">
+  <ion-list>
+    <button ion-item *ngFor="let item of items">
+      <ion-grid class="grid-content">
+        <ion-row>
+          <ion-col col-8  class="text-description">{{item.description}}</ion-col>
+          <ion-col col-4><img [src]="item.picture" alt="curso1" class="picture"/></ion-col>
+        </ion-row>
+      </ion-grid>
+    </button>  
+  </ion-list>
+ </div>
+</ion-content>
